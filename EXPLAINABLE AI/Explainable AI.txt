@@ -1,0 +1,110 @@
+# EXPLAINABLE AI
+----------------
+
+* What is Explainable AI?
+-------------------------
+Learn about Explainable AI and its importance in understanding the inner workings of deep learning systems.
+
+Key ideas:
+
+	. Explainable AI (XAI) is a set of techniques used to make the inner workings of deep learning systems transparent and understandable to humans.
+	----------------
+
+	. Some AI algorithms, like decision trees, are called inherently explainable. Due to their structure, it is possible (at least in theory) for human experts to understand how these 
+	algorithms make decisions.
+
+	. Other AI algorithms, like deep neural networks, are inherently opaque. Sometimes called black boxes, these algorithms can be highly effective, but it is usually very hard to 
+	understand how they are working.
+
+	. The goal of Explainable AI is to make black boxes into glass boxes, providing transparency into the decision-making process of deep learning systems.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: why do you think we care about explainability at all, if the algorithms work?
+---------
+
+* See our answer
+----------------
+	. Imagine an algorithm being used to diagnose a medical condition. A human doctor has all sorts of factors that influence their decision, including judgement calls like "better to 
+	err on the side of caution." If we want the algorithm to do the same, we need to know how the algorithm is making its decisions!
+
+	. Algorithms are also only as good as their data. If the data being fed into the algorithm is biased, the algorithm may reproduce that bias. Medical datasets, for example, often 
+	don't contain the same amount or quality of data for different types of bodies. So our medical diagnostic algorithm may be influenced by biases in its dataset. Without knowing how 
+	it is making decisions, we will have a much harder time correcting for these issues.
+
+	. For more details, see our article Dangers of the Black Box
+
+- Explainable AI (XAI)
+----------------------
+
+	. Inherently Explainable Algorithms
+	-----------------------------------
+		. Decision trees
+		. Regression algorithms
+		. Bayesian classifiers
+		. Support vector machines
+
+	. Inherently Opaque Algorithms
+	------------------------------
+		. Deep Learning Algorithms
+		. Genetic Algorithms
+		
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
