@@ -1,0 +1,12 @@
+# COURSE OVERVIEW
+-----------------
+
+- Inherently Explainable AI.
+- Inherently Opaque AI.
+- Concept of black box as it applies to explainable AI and deep learning.
+- Goal of converting the black box into a transparent of glass box.
+- Interpretability problem.
+- Google's principles of interpretability.
+- Three main approaches of interpretability.
+- Legal and social concept of right to explanation.
+- Six contemporary approaches to AI explainability.
