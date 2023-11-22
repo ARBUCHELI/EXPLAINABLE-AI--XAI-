@@ -54,6 +54,59 @@ Question: why do you think we care about explainability at all, if the algorithm
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* The Interpretability Problem
+------------------------------
+Learn about the interpretability problem and how deep learning systems store knowledge and make decisions.
+
+Key ideas:
+
+	. The interpretability problem is the challenge of explaining the inner workings of a deep learning system.
+
+	. In a deep learning system, knowledge implicit in the training data is reflected in changes to the structure of its hidden layers.
+
+	. Different inputs activate different groups of neurons or activation paths within these layers, resulting in different outputs or decisions.
+	
+	. So understanding the structure of hidden layers can help us understand how a deep learning system stores knowledge and makes decisions.
+
+	. There are three main approaches to studying deep learning systems: constraint, perturbation, and generative adversarial networks (GANS). We’ll learn more about each of these in 
+	later videos.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: how does the example deep learning system store conceptual information, like the idea of a “triangle”?
+
+* See our answer
+----------------
+Concepts correspond to groups of nodes that are activated by a class of inputs. For example, the group of nodes that is activated whenever a triangle is fed into the neural network 
+represent the concept of "triangle". By understanding how different inputs activate different groups of neurons, we can gain insight into where and how concepts are stored inside the 
+hidden layers, and begin to explain how the deep learning system makes its decisions!
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
