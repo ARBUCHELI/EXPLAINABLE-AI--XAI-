@@ -86,6 +86,72 @@ hidden layers, and begin to explain how the deep learning system makes its decis
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Right to Explanation
+----------------------
+Learn about right to explanation regulations and their real-world applications.
+
+Key ideas:
+
+	. Algorithms need to be regulated to ensure they meet social, ethical, and legal standards.
+
+	. The right to explanation is a legal right that guarantees individuals receive a clear explanation of algorithmic outputs.
+
+	. Several such laws are already on the books, including
+	
+		. the Equal Credit Opportunity Act (in the USA)
+
+		. the General Data Protection Regulation (in the EU)
+
+		. the Digital Republic Act (in France)
+
+	. For example, the GDPR includes the right to an explanation of the reasons behind legal or financial decisions made by automated systems.
+
+	. Expect many more such laws as AI systems become increasingly embedded in society.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: why is a right to explanation necessary?
+---------
+
+* See our answer
+----------------
+Deep learning systems are becoming more and more prevalent, and their decisions impact human beings. In worst case scenarios, like places that use AI in criminal justice, these decisions 
+could have serious impacts on people's lives and human rights. Anyone impacted like this should be able to receive an actual explanation of how that decision was made. And as a society, 
+we need these explanations to make sure AI systems aren't violating human rights or otherwise making incorrect decisions.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
