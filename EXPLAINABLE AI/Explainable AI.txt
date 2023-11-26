@@ -8,7 +8,7 @@ Learn about Explainable AI and its importance in understanding the inner working
 Key ideas:
 
 	. Explainable AI (XAI) is a set of techniques used to make the inner workings of deep learning systems transparent and understandable to humans.
-	---------------
+	----------------
 
 	. Some AI algorithms, like decision trees, are called inherently explainable. Due to their structure, it is possible (at least in theory) for human experts to understand how these 
 	algorithms make decisions.
