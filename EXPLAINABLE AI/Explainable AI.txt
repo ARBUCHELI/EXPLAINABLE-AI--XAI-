@@ -123,6 +123,56 @@ we need these explanations to make sure AI systems aren't violating human rights
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Counterfactual Method
+-----------------------
+Learn about the counterfactual method for interpreting neural networks.
+
+Key ideas:
+
+	. Counterfactuals are hypothetical situations used to test a neural network’s decision-making boundaries.
+
+	. For example, imagine a neural network that is supposed to detect fakes of the Mona Lisa. As a counterfactual, we might present the neural network with an image of the real Mona 
+	Lisa, but with added eyelashes.
+
+	. How the neural network classifies this image will help us understand whether “has eyelashes” is a feature it is using to determine real from fake.
+
+	. The counterfactual method is a perturbation approach, meaning that it makes small changes to the input and looks at impacts on the output.
+
+	. The counterfactual method requires a lot of input and testing to obtain a clear picture of the network’s inner workings.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: why does the counterfactual method require a lot of input and testing?
+---------
+
+* See our answer
+----------------
+Each individual counterfactual only tells us a little bit about the neural network. For example, if the neural network classifies our Mona Lisa With Eyelashes as fake, that only tells us 
+that the neural network's concept of "real Mona Lisa" does not include eyelashes. In order to understand the full picture, we have to change just one aspect of the Mona Lisa at a time 
+over and over to detect which features the neural network "cares" about in determining real from fake.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
