@@ -183,6 +183,59 @@ testing than the counterfactual method.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Intelligible Models
+---------------------
+Learn about the intelligible models approach.
+
+Key ideas:
+
+	. The intelligible models approach is based on statistical analysis.
+
+	. It works by varying statistical properties of inputs and seeing how that impacts the output.
+
+	. In the Mona Lisa case, we might do a statistical analysis of its “chemical signature”: the different types of paints and materials across the canvas.
+
+	. We could then create fakes that vary this chemical signature ever so slightly and test the outputs.
+
+	. The degree of similarity between fakes can be measured to determine how far variations can be taken before it is identified as a fake.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: is intelligible models a reasonable approach for our Mona Lisa example?
+---------
+
+* See our answer
+----------------
+Intelligible models is probably not the best or most natural approach in this case, since it requires creating actual physical fakes, instead of just digital ones.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
