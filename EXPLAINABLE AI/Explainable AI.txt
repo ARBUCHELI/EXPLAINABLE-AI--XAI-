@@ -155,6 +155,36 @@ over and over to detect which features the neural network "cares" about in deter
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Axiomatic Attribution
+-----------------------
+Learn about axiomatic attribution and how it can be applied to recognizing the Mona Lisa.
+
+Key ideas:
+
+	. Axiomatic attribution involves building an input step by step and checking the output at each step.
+
+	. Think about it like a game of pictionary. For the Mona Lisa, we construct sketches of the Mona Lisa stroke by stroke.
+
+	. The goal is to determine the minimum information needed for the network to recognize the real Mona Lisa.
+
+	. Axiomatic attribution is a perturbation approach that adds information with each step to test decision boundaries.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: what is the advantage of using axiomatic attribution over the counterfactual method?
+---------
+
+* See our answer
+----------------
+Both methods are perturbation methods, where we vary inputs slightly and see how the output changes. However, axiomatic attribution in general requires significantly fewer inputs and 
+testing than the counterfactual method.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
