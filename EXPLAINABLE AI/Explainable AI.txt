@@ -212,6 +212,54 @@ Intelligible models is probably not the best or most natural approach in this ca
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Monotonicity
+--------------
+Learn about the concept of monotonicity and its application in AI interpretability.
+
+Key ideas:
+
+	. Neural networks with monotonicity tend to emphasize similarities instead of detecting differences
+
+	. This contrasts with adversarial networks, which emphasize minute differences in inputs.
+
+	. Note that the same network can exhibit aspects of both monotonic and adversarial behavior.
+
+	. In our Mona Lisa example, a network that is more monotonic will look for major features (like the mysterious smile) to classify painting in a Mona Lisa style as Mona Lisas. A 
+	more adversarial network might find minute differences in these and reject them.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: how does monotonicity impact interpretability?
+---------
+
+* See our answer
+----------------
+Whether we want a more adversarial or monotonic network depends on the problem we are solving with the AI. Do we want a network that will tell us if we have the real Mona Lisa, or a 
+network that will tell us if a painting is a version of the Mona Lisa? Knowing this can guide our approach to interpretability. In the former case, we want to know which minute 
+differences cause the network to reject a fake. In the latter case, we want to know what are the broad categories that make up the conceptual space of "like a Mona Lisa".
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
