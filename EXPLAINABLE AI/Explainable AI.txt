@@ -242,6 +242,65 @@ differences cause the network to reject a fake. In the latter case, we want to k
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Rationalization
+-----------------
+Learn about the interpretability technique of rationalization.
+
+Key ideas:
+
+	. Rationalization is an AI interpretability method that allows the AI to explain its decision-making process.
+
+	. It involves capturing data from a human expert and encoding it into a deep learning network.
+
+	. When the network is presented with a task, it activates certain nodes and paths that trigger the expert’s verbal output associated with them.
+
+	. This allows the AI to rationalize its conclusions in terms that humans can understand.
+
+	. Rationalization gets us closer to the dream of having AI that can explain its decision-making process like a human.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: how is rationalization different from all the prior techniques?
+---------
+
+* See our answer
+----------------
+All our prior techniques have involved some kind of perturbation: changing inputs and seeing how that changes the outputs. Essentially, we are trying to piece together the workings of the 
+black box by doing a series of scientific experiments. With rationalization, the black box is (in an ideal world) directly telling us how it is working!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
