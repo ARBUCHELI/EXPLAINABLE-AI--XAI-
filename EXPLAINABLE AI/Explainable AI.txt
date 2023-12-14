@@ -272,6 +272,63 @@ black box by doing a series of scientific experiments. With rationalization, the
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Feature Visualization
+-----------------------
+Learn about feature visualization and interpretability using generative adversarial networks (GANs).
+
+Key ideas:
+
+	. Feature visualization uses generative adversarial networks (GANs) to detect the features that lead a neural network to make specific decisions.
+
+	. A GAN consists of a generative network creating inputs for an adversarial network to evaluate.
+
+	. In our example, the generative network generates random variations of the original Mona Lisa (within limits) and feeds them as input to the adversarial network.
+
+	. The adversarial network (or critic) determines if each variation is real or fake. The generative network is then trained on these answers.
+
+	. The generative network keeps track of its performance improvements and reports the features that the adversarial network uses to detect the real Mona Lisa from fakes.
+
+* Instructions
+--------------
+Think about the following question as you watch the video. When you are ready to move on, select Next.
+
+Question: how is feature visualization with GANs different from or similar to the other methods?
+---------
+
+See our answer
+--------------
+	. Like rationalization, using GANs ideally allows the pair of neural networks to tell us how the adversarial network makes decisions.
+
+	. This is different from earlier methods, where we had to create specific counterfactuals to peer inside the black box.
+
+	. Unlike rationalization, though, with GANs we aren't duplicating an expert's process. Instead, we are using a second neural network and a feedback loop to probe the boundaries of 
+	the adversarial network's decision process.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
